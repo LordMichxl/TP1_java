@@ -1,0 +1,2 @@
+net.michel.ext.DaoImplV2
+net.michel.metier.MetierImpl

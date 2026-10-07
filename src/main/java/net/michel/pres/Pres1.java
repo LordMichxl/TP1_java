@@ -1,6 +1,7 @@
 package net.michel.pres;
 
 import net.michel.dao.DaoImpl;
+import net.michel.ext.DaoImplV2;
 import net.michel.metier.MetierImpl;
 
 public class Pres1 {
